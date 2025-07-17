@@ -30,7 +30,7 @@ Cada commit deve começar com a frase:
 
 `aula 2 - condicionais if/else`
 
-## 💡 Add, commit, push
+### 💡 Comandos
 
 - `git add`
 - `git commit`
