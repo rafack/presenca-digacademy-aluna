@@ -1,15 +1,8 @@
 # 🧠 `{DigPort}` Academy | Programming Fundamentals - Presença
 
-Este repositório é o seu **diário de bordo** ao longo do projeto.  
-Aqui você irá registrar sua presença e acompanhar sua própria evolução por meio de **commits**! ✨
+Cada aluna deve criar seu **próprio repositório individual** para adicionar os arquivos da aula.  
 
-
-## ✅ Como usar este repositório
-
-Cada aluna deve criar seu **próprio repositório individual**, a partir deste modelo.  
-
-- Clique em **"Use this template"**
-- Crie um novo repositório com seu nome (`presenca-digacademy-rafaela`)
+O link para o repositório deve ser adicionado na thread no nosso canal do Teams com o título "Chamada".
 
 ## 📝 Como registrar sua presença
 
