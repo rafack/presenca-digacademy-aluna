@@ -32,8 +32,8 @@ Cada commit deve começar com a frase:
 
 ### 💡 Comandos
 
-- `git add`
-- `git commit`
+- `git add .`
+- `git commit -m "aula 1 - add exercicio"`
 - `git push`
 
 ## 🧑🏻‍💻 Mantenha o hábito!
